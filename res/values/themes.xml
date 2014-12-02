@@ -14,9 +14,6 @@
     limitations under the License.
 -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
-
-    <style name="AppTheme" parent="android:Theme.Holo">
-        <item name="android:actionBarStyle">@style/action_bar_style</item>
+    <style name="AppTheme" parent="android:Theme.Material">
     </style>
 </resources>
-
