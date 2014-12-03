@@ -24,7 +24,7 @@
   <string-array name="headphone_modes">
     <item>Estudio</item>
     <item>Habitación</item>
-    <item>Gran habitación</item>
+    <item>Habitación grande</item>
     <item>Escenario</item>
   </string-array>
   <string-array name="equalizer_loudness_modes">
