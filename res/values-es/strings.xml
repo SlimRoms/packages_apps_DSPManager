@@ -22,7 +22,7 @@
   <string name="speaker_title">Altavoz</string>
   <string name="bluetooth_title">Bluetooth</string>
   <string name="usb_title">USB/Base</string>
-  <string name="audio_effects">Filtros de audio</string>
+  <string name="audio_effects">Efectos de sonido</string>
   <string name="pref_unavailable">Funcionalidad no disponible para el dispositivo</string>
   <string name="dsp_settings_headset">Ajustes - Auriculares</string>
   <string name="dsp_settings_speaker">Ajustes - Altavoces</string>
@@ -33,7 +33,7 @@
   <string name="pref_dsp_summary_on">Compresión activada</string>
   <string name="pref_dsp_summary_off">Compresión desactivada</string>
   <string name="pref_dsp_enable">Habilitar</string>
-  <string name="pref_effect_title">Intensidad del efecto</string>
+  <string name="pref_effect_title">Elegir Intensidad del efecto</string>
   <string name="dialog_effect">Intensidad del efecto</string>
   <string name="pref_equalizer_title">Ecualizador</string>
   <string name="pref_equalizer_summary_on">Ecualizador activado</string>
@@ -41,7 +41,7 @@
   <string name="pref_equalizer_enable">Habilitar</string>
   <string name="pref_equalizer_preset_title">Predefinido</string>
   <string name="pref_equalizer_loudness_title">Compensación sonora</string>
-  <string name="pref_bassboost_title">Bass Boost</string>
+  <string name="pref_bassboost_title">Refuerzo de graves</string>
   <string name="pref_bassboost_summary_on">Bass Boost activado</string>
   <string name="pref_bassboost_summary_off">Bass Boost desactivado</string>
   <string name="pref_bassboost_enable">Habilitar</string>

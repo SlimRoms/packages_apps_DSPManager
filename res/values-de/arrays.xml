@@ -17,7 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string-array name="microphone_recording_presets">
     <item>Normal</item>
-    <item>Ausgeglichen</item>
+    <item>Ausgewogen</item>
     <item>Sehr empfindlich</item>
     <item>Laute Umgebung</item>
   </string-array>

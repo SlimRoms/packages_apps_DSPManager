@@ -52,7 +52,7 @@
   <string name="pref_room_title">Raumtyp</string>
   <string name="dialog_room">Raumtyp</string>
   <string name="menu_reset">Zurücksetzen</string>
-  <string name="eq_preset_acoustic">Acoustic</string>
+  <string name="eq_preset_acoustic">Akustisch</string>
   <string name="eq_preset_bass_booster">Mehr Bässe</string>
   <string name="eq_preset_bass_reducer">Weniger Bässe</string>
   <string name="eq_preset_classical">Klassik</string>
@@ -98,7 +98,7 @@
   <string name="pref_wm8994_stereo_expansion_title">Stereoverbreiterung</string>
   <string name="pref_wm8994_stereo_expansion_summary">Stereo durch digitale Signalverarbeitung verbreitern</string>
   <string name="pref_wm8994_dac_direct_title">Direktzugriff D/A-Wandler</string>
-  <string name="pref_wm8994_dac_direct_summary">Direktzugriff auf den D/A-Wandler durch umgehen des Kanalmischers. Erzeugt saubereren Klang (höheres Signal-Rausch-Verhältnis)</string>
+  <string name="pref_wm8994_dac_direct_summary">Direktzugriff auf den D/A-Wandler durch Umgehung des Kanalmischers. Erzeugt saubereren Klang (höheres Signal-Rausch-Verhältnis)</string>
   <string name="pref_wm8994_dac_osr128_title">Hi-Fi-Wiedergabe</string>
   <string name="pref_wm8994_dac_osr128_summary">D/A-Wandler 128x Oversampling — Sauberer Klang bei Musikwiedergabe</string>
   <string name="pref_wm8994_adc_osr128_title">Hi-Fi-Aufnahme</string>
