@@ -16,38 +16,38 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string-array name="microphone_recording_presets">
-    <item>Normal</item>
-    <item>Ausgewogen</item>
-    <item>Hohe Empfindlichkeit</item>
-    <item>Laute Umgebung</item>
+    <item>Nepromjenjeno</item>
+    <item>Uravnoteženo</item>
+    <item>Visoka osjetljivost</item>
+    <item>Bučno okruženje</item>
   </string-array>
   <string-array name="headphone_modes">
     <item>Studio</item>
-    <item>Raum</item>
-    <item>Großer Raum</item>
-    <item>Bühne</item>
+    <item>Soba</item>
+    <item>Velika soba</item>
+    <item>Pozornica</item>
   </string-array>
   <string-array name="equalizer_loudness_modes">
-    <item>Deaktiviert</item>
-    <item>Sehr schwach</item>
-    <item>Schwächer</item>
-    <item>Schwach</item>
-    <item>Stark</item>
-    <item>Stärker</item>
-    <item>Sehr stark</item>
+    <item>Neaktivan EQ</item>
+    <item>Najslabiji EQ</item>
+    <item>Vrlo slabi EQ</item>
+    <item>Slab EQ</item>
+    <item>Jak EQ</item>
+    <item>Vrlo jak EQ</item>
+    <item>Najjači EQ</item>
   </string-array>
   <string-array name="compression_modes">
-    <item>Schwach</item>
-    <item>Mittel</item>
-    <item>Extrem</item>
+    <item>Blaga</item>
+    <item>Umjerena</item>
+    <item>Vrlo snažna</item>
   </string-array>
   <string-array name="bassboost_modes">
-    <item>Schwach</item>
-    <item>Mittel</item>
-    <item>Extrem</item>
+    <item>Blagi</item>
+    <item>Umjereni</item>
+    <item>Vrlo snažni</item>
   </string-array>
   <string-array name="wm8994_bassboost_modes">
-    <item>Normal</item>
-    <item>Kleine Lautsprecher</item>
+    <item>Uobičajeni</item>
+    <item>Za male zvučnike</item>
   </string-array>
 </resources>
